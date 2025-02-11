@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+wordcloud
+nltk
+regex
+pytest-warnings
+imbalanced-learn
+vector
